@@ -9,5 +9,5 @@ def compute(expression):
 		return num0 + num1
 	else :
 		print("UNKNOWN OPERATOR")
-		return 0
+		return None
 		
