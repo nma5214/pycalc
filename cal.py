@@ -12,8 +12,11 @@ def compute(expression):
 	elif operator == '-':
 		return num0 - num1 
 
+ 
 	elif operator == '*':
 		return num0*num1
+	elif operator == '/':
+		return num0/num1
 	else :
 		print("UNKNOWN OPERATOR")
 		return None
