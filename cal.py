@@ -1,3 +1,6 @@
+##Performs simple arithmatic entered as a string input 
+#bla bla bla
+
 def compute(expression):
 	values = expression.split(' ')
 
